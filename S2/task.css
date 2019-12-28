@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 100px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.col-sm-4 {
+    margin-bottom: 20px;
+}

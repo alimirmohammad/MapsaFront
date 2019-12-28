@@ -1,0 +1,21 @@
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+.col-sm-4 {
+    margin-bottom: 20px;
+}
+
+.search-box {
+    text-align: center;
+}
