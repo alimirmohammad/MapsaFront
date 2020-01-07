@@ -7,3 +7,4 @@ localStorage.setItem('name', JSON.stringify(person));
 alert(JSON.parse(localStorage.getItem('name')));
 
 // Ali
+// Gholi
