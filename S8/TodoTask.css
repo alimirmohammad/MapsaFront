@@ -1,0 +1,51 @@
+li {
+    font-family: 'Montez', cursive;
+    font-size: 2.5rem;
+    color: white;
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    color: white;
+}
+
+.top {
+    text-align: center;
+}
+
+.pending {
+    text-align: center;
+    width: 100%;
+    min-height: 400px;
+    background: rgb(195,93,34);
+    background: linear-gradient(0deg, rgba(195,93,34,1) 0%, rgba(253,69,45,0.5606617647058824) 62%);
+    margin: 10px 5px;
+}
+
+.done {
+    text-align: center;
+    width: 100%;
+    min-height: 400px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,253,174,0.5606617647058824) 62%);
+    margin: 10px 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.done li {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: #b5b5b5;
+}
